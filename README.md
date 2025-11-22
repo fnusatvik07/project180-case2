@@ -18,7 +18,7 @@ Based on that input, the system finds related competing products and provides a 
 
 ## System Architecture Diagram
 
-![System Architecture](images/architecture.png)
+![System Architecture](images/arch.png)
 
 ---
 
