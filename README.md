@@ -16,6 +16,18 @@ Based on that input, the system finds related competing products and provides a 
 
 ---
 
+## System Architecture Diagram
+
+![System Architecture](images/architecture.png)
+
+---
+
+## Process Flow Diagram
+
+![Process Flow](images/flow.png)
+
+
+
 ## Objectives
 
 The main objectives of this project are:
